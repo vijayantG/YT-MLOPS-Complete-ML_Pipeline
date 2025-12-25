@@ -10,9 +10,6 @@ cls.pub
 # DVC Live artifacts
 dvclive/
 
-# DVC pipeline file
-dvc.yaml
-
 
 # DVC internal files
 .dvc/
