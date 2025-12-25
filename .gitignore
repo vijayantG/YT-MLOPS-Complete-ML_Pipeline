@@ -6,6 +6,16 @@ reports
 cls
 cls.pub
 
+# DVC internal files
+.dvc/
+.dvcignore
+
+# SSH keys 
+cls
+cls.pub
+
+# Data directory 
+data/
 
 
 # Byte-compiled / optimized / DLL files
