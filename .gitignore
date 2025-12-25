@@ -1,6 +1,11 @@
 data
 models
 reports
+.dvc/
+.dvcignore
+cls
+cls.pub
+
 
 
 # Byte-compiled / optimized / DLL files
