@@ -2,13 +2,6 @@ data
 models
 reports
 
-# SSH keys 
-cls
-cls.pub
-
-# Data directory 
-data/
-
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
