@@ -1,19 +1,6 @@
 data
 models
 reports
-.dvc/
-.dvcignore
-cls
-cls.pub
-
-
-# DVC Live artifacts
-dvclive/
-
-
-# DVC internal files
-.dvc/
-.dvcignore
 
 # SSH keys 
 cls
